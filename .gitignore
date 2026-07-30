@@ -1,0 +1,22 @@
+# Configuration with credentials (use config-blank.php as template)
+config.php
+
+# Ignore runtime data and logs
+data/used_codes.php
+data/demo_accounts.json
+data/limits/*.php
+logs/*.log.php*
+logs/*.log
+
+# OS & Environment files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.idea/
+.vscode/
+
+# Build scripts
+*.py
+*.zip
+
