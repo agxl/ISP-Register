@@ -5,7 +5,9 @@
     <i>Developed by Andy Goldau | © 2026 PanelLayer (Subdomain LTD) & GoMaKe UG</i>
   </p>
   <p>
-    🌐 <b>Project:</b> <a href="https://panellayer.com/">panellayer.com</a>
+    📦 <b>Product Page:</b> <a href="https://isp-register.panellayer.com/">ISP-Register</a> &nbsp;|&nbsp;
+    🧪 <b>Live Demo:</b> <a href="https://demo.isp-register.panellayer.com/">Demo</a> &nbsp;|&nbsp;
+    🌐 <b>Project:</b> <a href="https://panellayer.com/">PanelLayer</a>
   </p>
 </div>
 
@@ -94,8 +96,10 @@ Add to crontab:
 
 This project is licensed under the **MIT License**.
 
-> **Developer:** Andy Goldau  
+> **Developer:** [Andy Goldau](https://andy-goldau.de/) <br>
 > **Copyright:** © 2026 ISP-Register by PanelLayer, a brand of Subdomain LTD and managed on behalf of GoMaKe UG. All rights reserved.  
+> **Product Page:** [https://isp-register.panellayer.com/](https://isp-register.panellayer.com/)  
+> **Live Demo:** [https://demo.isp-register.panellayer.com/](https://demo.isp-register.panellayer.com/)  
 > **Project:** [https://panellayer.com/](https://panellayer.com/)
 
 The above copyright notice, the developer attribution, and the permission notice must be included in all copies or substantial portions of the Software.
